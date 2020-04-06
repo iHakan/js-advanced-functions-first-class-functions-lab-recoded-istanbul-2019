@@ -14,3 +14,5 @@ const createFareMultiplier = function(int){
     return int*fare;
   }
 }
+
+const 
